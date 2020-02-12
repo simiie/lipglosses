@@ -1,0 +1,26 @@
+.mycolor{
+    color: aquamarine;
+    font-family: cursive;
+    font-style: oblique;
+}
+.relative{
+    color: rgb(20, 136, 136);
+    font-family: monospace;
+    font-style: inherit;
+}
+.cup{
+    color: lavenderblush;
+    font-family: sans-serif;
+    font-style: italic;
+}
+.zero{
+    background-color: black;
+}
+.eraser{
+    color: black;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: serif;
+    text-align: center;
+    margin: 40px 0px;
+}

@@ -30,5 +30,32 @@
     font-size:20px ;
     margin: 40px 0px;
     text-align:center;
-
 }
+.shape{
+    margin:40px 0px;
+}
+
+.blackbutton{
+    margin:30px 0px;
+    padding-left:20px;
+    text-align:center;
+}
+.book{
+    display:flex;
+    justify-content: space-around;
+    /* box-shadow: 10px 20px black !important; */
+}
+.ork1, .ord2, .ord3{
+    margin:10px 0px;
+    /* box-shadow: 10px 20px black !important; */
+    width:30%;
+    
+}
+/* .ord2{ */
+    /* margin:10px 0px; */
+    /* box-shadow: 10px 20px black !important; */
+/* } */
+/* .ord3{
+    margin:10px
+} */
+

@@ -58,4 +58,78 @@
 /* .ord3{
     margin:10px
 } */
-
+.fenty, .name{
+    /* background-color:lightgray; */
+    padding:10px 10px;
+}
+.black{
+    color:palevioletred !important;
+}
+.beauty{
+    color:palevioletred;
+}
+.mycolor3{
+    color: rgb(20, 136, 136);
+    font-family: monospace;
+    font-style: inherit;
+}
+.images{
+     justify-content:space-around !important;
+    display:flex;
+    /* background-color:lightgray; */
+    padding:50px 30px;
+    margin:10px 10px;
+    flex-direction: column;
+    widows:100px;
+    flex-direction: row;
+    /* height: 100px; */
+    flex-wrap: wrap;
+}
+.foundation{
+    justify-content: space-around;
+    display: block;
+    flex-direction: column;
+}
+.maltina{
+    /* padding:10px 10px; */
+    /* font-weight: 800px; */
+    color:darkslategrey;
+    font-size:50px;
+    font-style: oblique;
+    text-align: center;
+}
+.brush{
+    justify-content: space-around !important;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.yellow{
+ color:darkgrey;
+ font-size:5em ;
+ font-family:courier;
+}
+.orange{
+    text-align: center;
+    background-color: palevioletred;
+}
+.pink{
+    color:;
+    font-size:3em;
+    font-family:
+}
+.silver{
+    margin: 0 auto;
+    padding-top: 9%;
+}
+.navright{
+    padding-left: 70%;
+}
+.water{
+    border-radius:10px;
+    font-size:1.5em;
+    padding:1.25% 3.75%;
+    background-color: darkgrey;
+}

@@ -1,22 +1,25 @@
 .mycolor{
-    color: aquamarine;
-    font-family: cursive;
-    font-style: oblique;
+    color:rgb(20, 136, 136);
+    font-family:cursive;
+    font-style:inherit;
+}
+.system{
+    padding-left: 0.5em;
 }
 .relative{
     color: rgb(20, 136, 136);
-    font-family: monospace;
+    font-family:cursive;
     font-style: inherit;
 }
 .cup{
-    color: lavenderblush;
-    font-family: sans-serif;
-    font-style: italic;
+    color:rgb(20, 136, 136);
+    font-family:cursive;
+    font-style: inherit;
 }
 .zero{
     background-color: black;
 }
-.eraser{
+.eraser{ 
     color: black;
     font-size: 32px;
     font-weight: 700;
@@ -132,4 +135,22 @@
     font-size:1.5em;
     padding:1.25% 3.75%;
     background-color: darkgrey;
+}
+.contact{
+    text-align: center;
+    background-color: papayawhip;
+}
+.note{
+    color: black;
+    padding-left: ;
+}
+.book{
+    text-align: center;
+}
+.men{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.corn{
+    padding-left: 30px;
 }
